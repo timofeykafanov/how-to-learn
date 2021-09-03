@@ -1,4 +1,5 @@
 .kaufman {
+  overflow: hidden;
   position: relative;
   display: flex;
   flex-direction: column;
