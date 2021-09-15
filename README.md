@@ -17,4 +17,4 @@
 
 #### В планах сделать сайт адаптивным для всех устройств.
 
-ссылка на проект [https://timofeykafanov.github.io/how-to-learn/]
+[ссылка на проект](https://timofeykafanov.github.io/how-to-learn/)
